@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Katherine (@kjbrooks1)
+- 👀 I’m interested in software for space!
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on anything related to machine learning, AI, or autonomous vehicles.
+- 📫 How to reach me kjbrooks1@mac.com
